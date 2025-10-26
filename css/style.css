@@ -1,0 +1,19 @@
+ul {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding: 51px 514px 30px 222px;
+}
+
+li {
+    list-style-type:none;
+    padding-right: 30px;
+
+}
+
+.logo {
+    display: inline-flex;
+    flex-direction: row;
+    padding: 20px 1269px 20px 120px;
+    margin-top: 100px ;
+}
